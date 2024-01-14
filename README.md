@@ -1,6 +1,6 @@
 # Exercícios em C e Python <img src="/.images/python-logo.png" height="45px" align="right"/><img src="/.images/c-logo.png" height="45px" align="right"/>
 
-Neste repositório se encontram os exercícios que desenvolvi durante a graduação em Gestão da Informação.
+Neste repositório se encontram os exercícios desenvolvidos durante a graduação em Gestão da Informação.
 
 <br>
 
